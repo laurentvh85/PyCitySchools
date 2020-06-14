@@ -1,6 +1,5 @@
 # PyCitySchools
-- ![](School_District_Analysis/png_files_for_readme/.png)
-In this module challenge I removed the math and reading scores for all the 9th graders who attended Thomas High School. This removed the scores of 461 students out of 39,170, this is roughly 1.18% of the total. I believe that this will only minimally affect the data as it is such a small amount of the data set. I also cleaned the data set to remove prefixes and suffexes. The cleaned data is presented in the below table. Note the NaN entries for the 9th graders at Thomas High School 
+In this module challenge I removed the math and reading scores for all the 9th graders who attended Thomas High School. This removed the scores of 461 students out of 39,170, this is roughly 1.18% of the total. I believe that this will only minimally affect the data as it is such a small amount of the data set. I also cleaned the data set to remove prefixes and suffixes. The cleaned data is presented in the below table. Note the NaN entries for the 9th graders at Thomas High School 
 - ![](School_District_Analysis/png_files_for_readme/student_data_df.png)
 
 # District Summary
@@ -25,7 +24,7 @@ When we removed all the 9th grader's scores, the school dropped in the rankings 
 # Top Performers New School Data
 ![](School_District_Analysis/png_files_for_readme/high_perf_new.png)
 
-- Average Math Score: went down from 83.41 ro 83.35 to 6th place from 4th
+- Average Math Score: went down from 83.41 to 83.35 to 6th place from 4th
 - Average Reading Score: this score went up from 83.85 to 83.90 which remains unchanged in the rankings at 5th place
 - % Passing Math: big drop from 93.27 to 66.91. 9th place, previously 7th
 - % Passing Reading: big drop from 97.31 69.66 last place from previously being first. 
