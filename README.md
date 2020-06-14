@@ -79,8 +79,18 @@ The below data shows how the data has changed due to removal of the grades
 ![](School_District_Analysis/png_files_for_readme/school_size_new.png)
 
 # School Type
+- Thomas High School is a charter school so that is the only school type that is affected.
 
+Changes for the charter schools:
+- Average Math Score: unchanged
+- Average Reading Score: unchanged
+- % Passing Math: -4%
+- % Passing Reading: -4%
+- % Overall Passing: -3%
 
-
+# School Type Old
+![](School_District_Analysis/png_files_for_readme/school_type_old.png)
+# School Type New
+![](School_District_Analysis/png_files_for_readme/school_type_new.png)
 
 
